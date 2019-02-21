@@ -1,0 +1,11 @@
+main.container {
+	padding-top: 1rem;
+}
+
+main.container .item {
+	padding-bottom: 1rem;
+}
+
+main.container .item p {
+	margin: 0 !important;
+}
