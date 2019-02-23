@@ -9,3 +9,7 @@ main.container .item {
 main.container .item p {
 	margin: 0 !important;
 }
+
+main.container .personal-col {
+	text-align: center;
+}
