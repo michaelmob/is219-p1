@@ -62,8 +62,14 @@
           <div>Graduated in Summer 2017</div>
         </div>
 
-        <h2>Projects</h2>
+        <h2>Work Experience</h2>
+        <div class="item">
+          <strong>Varkus</strong>
+          <p>Sep 2013 - Jan 2018</p>
+          <p>Full-Stack Developer</p>
+        </div>
 
+        <h2>Projects</h2>
         <div class="item">
           <i class="fas fa-camera"></i>
           <a href="https://github.com/thetarkus/WebMCam" target="_blank">
